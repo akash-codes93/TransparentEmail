@@ -30,7 +30,7 @@ from transparentemail.services.Emails.emailException import InvalidEmailExceptio
 try:
     
     transformed_email = get_primary_email('John.Doe+alias@gmail.com')
-    print(transformed_email)
+    print(transformed_email)  # John.Doe@gmail.com
 
 except InvalidEmailException:
     print('Invalid Email')

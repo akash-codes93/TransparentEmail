@@ -1,8 +1,14 @@
 [tool.poetry]
 name = "TransparentEmail"
 version = "0.1.0"
-description = ""
+description = "Transparent Email clears aliases from email address"
 authors = ["Akash Gupta"]
+readme = 'README.md'
+
+repository = "https://github.com/akash-codes93/TransparentEmail"
+homepage = "https://github.com/akash-codes93/TransparentEmail"
+
+keywords = ['transparentemail', 'email alias', 'email']
 
 [tool.poetry.dependencies]
 python = "^3.6.2"
