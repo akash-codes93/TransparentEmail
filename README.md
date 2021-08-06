@@ -15,6 +15,12 @@ To detect multi-accounts on your website.
 * [outlook.com](http://outlook.com)
 * [yahoo.com](http://mail.yahoo.com)
 
+## Installation
+
+```
+pip install transparentemail
+```
+
 ## Usage
 
 ```python
