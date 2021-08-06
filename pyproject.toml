@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "TransparentEmail"
-version = "0.1.0"
+version = "0.1.1"
 description = "Transparent Email clears aliases from email address"
 authors = ["Akash Gupta"]
 readme = 'README.md'

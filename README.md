@@ -1,3 +1,5 @@
+[![PyPi version](https://img.shields.io/pypi/v/transparentemail.svg)](https://pypi.org/project/transparentemail/)
+
 # Transparent Email
 
 Transparent Email clears aliases from email address. Email `John.Doe+alias@gmail.com` will be transformed to `johndoe@gmail.com`.
