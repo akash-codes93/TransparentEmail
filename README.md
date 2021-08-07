@@ -1,7 +1,7 @@
 [![PyPi version](https://img.shields.io/pypi/v/transparentemail.svg)](https://pypi.org/project/transparentemail/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 [![Downloads](https://pepy.tech/badge/transparentemail)](https://pepy.tech/project/transparentemail)
-[![Downloads](https://img.shields.io/pypi/l/transparentemail.svg)](https://github.com/akash-codes93/TransparentEmail/LICENSE)
+[![Downloads](https://img.shields.io/pypi/l/transparentemail.svg)](https://github.com/akash-codes93/TransparentEmail/blob/master/LICENSE)
 
 # Transparent Email
 
