@@ -4,9 +4,14 @@ version = "0.1.1"
 description = "Transparent Email clears aliases from email address"
 authors = ["Akash Gupta"]
 readme = 'README.md'
+license = 'MIT'
 
 repository = "https://github.com/akash-codes93/TransparentEmail"
 homepage = "https://github.com/akash-codes93/TransparentEmail"
+
+include = [
+    "LICENSE",
+]
 
 keywords = ['transparentemail', 'email alias', 'email']
 
