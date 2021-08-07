@@ -3,6 +3,7 @@
 [![Downloads](https://pepy.tech/badge/transparentemail)](https://pepy.tech/project/transparentemail)
 [![License](https://img.shields.io/pypi/l/transparentemail.svg)](https://github.com/akash-codes93/TransparentEmail/blob/master/LICENSE)
 [![Coverage Status](https://coveralls.io/repos/github/akash-codes93/TransparentEmail/badge.svg?branch=master)](https://coveralls.io/github/akash-codes93/TransparentEmail?branch=master)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fakash-codes93%2FTransparentEmail.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fakash-codes93%2FTransparentEmail?ref=badge_shield)
 
 # Transparent Email
 
@@ -57,3 +58,6 @@ Yahoo uses the following pattern[*](https://help.yahoo.com/kb/SLN16026.html):
 
 Therefore we do not know what is the real email, so in this case result will be `baseName@yahoo.com`,
 which actually does not exist.
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fakash-codes93%2FTransparentEmail.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fakash-codes93%2FTransparentEmail?ref=badge_large)
