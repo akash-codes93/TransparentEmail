@@ -3,7 +3,7 @@
 [![Downloads](https://pepy.tech/badge/transparentemail)](https://pepy.tech/project/transparentemail)
 [![License](https://img.shields.io/pypi/l/transparentemail.svg)](https://github.com/akash-codes93/TransparentEmail/blob/master/LICENSE)
 [![Coverage Status](https://coveralls.io/repos/github/akash-codes93/TransparentEmail/badge.svg?branch=master)](https://coveralls.io/github/akash-codes93/TransparentEmail?branch=master)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fakash-codes93%2FTransparentEmail.svg?type=shield)]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fakash-codes93%2FTransparentEmail.svg?type=shield)
 
 # Transparent Email
 
