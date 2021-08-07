@@ -1,10 +1,9 @@
-from transparentemail import __version__
-
 import sys
 import unittest
 
 sys.path.append("..")
 
+from transparentemail import __version__
 from transparentemail.src import get_primary_email
 from transparentemail.services.Emails import emailException
 
